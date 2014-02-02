@@ -1,0 +1,7 @@
+*.pyc
+.sass-cache
+themes
+plugins
+node_modules
+output
+.idea
